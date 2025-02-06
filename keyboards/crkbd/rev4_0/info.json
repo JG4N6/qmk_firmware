@@ -13,11 +13,11 @@
         "bootmagic": true,
         "extrakey": true,
         "nkro": true,
-        "oled": true,
-        "rgblight": false,
+        "oled": false,
+        "rgblight": true,
         "rgb_matrix": true,
         "mousekey": true,
-        "encoder": true
+        "encoder": false
     },
     "diode_direction": "COL2ROW",
     "dynamic_keymap": {
