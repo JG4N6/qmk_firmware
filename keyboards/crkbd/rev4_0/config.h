@@ -3,6 +3,11 @@
 
 #pragma once
 
+
+#define NKRO_ENABLE       // Enables NKRO (N-Key Rollover)
+//#define OLED_DRIVER_ENABLE // Enable OLED display
+#define RGBLIGHT_ENABLE   // Enable RGB lighting
+
 #define SERIAL_USART_FULL_DUPLEX
 #define SERIAL_USART_TX_PIN GP12
 #define SERIAL_USART_RX_PIN GP13
